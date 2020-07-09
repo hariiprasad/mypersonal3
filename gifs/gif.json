@@ -1,11 +1,42 @@
 {
-"Athadu": [	
-	{
-	"name":"Admin",
-	"url":"https://raw.githubusercontent.com/hariiprasad/my-personal/master/HindiTemp/Dhamaal/1.jpg",
-	"thumb":"https://raw.githubusercontent.com/hariiprasad/my-personal/master/HindiTemp/Dhamaal/1.jpg",
-	"size":"450 kb",
-	"tag":"athadu",
-	"category":"Athadu"
-	}
-]
+  "AlluArjun": [
+    {
+      "name": "Allu Arjun ala vaikuntapuramlo",
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal3/master/gifs/alluarjun/ala.gif",
+      "tag": "Allu Arjun ala vaikuntapuramlo",
+      "category": "Allu Arjun"
+    },
+    {
+      "name": "Devuda",
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal3/master/gifs/alluarjun/devuda.gif",
+      "tag": "Racu gurram allu arjun devuda",
+      "category": "Allu Arjun"
+    },
+    {
+      "name": "ahh Allu Arjun",
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal3/master/gifs/alluarjun/sarainodu.gif",
+      "tag": "Sarainodu Allu arjun",
+      "category": "Allu Arjun"
+    }
+  ],
+  "Prabhas": [
+    {
+      "name": "prabhas baahubali",
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal3/master/gifs/prabhas/bahubali.gif",
+      "tag": "prabhas baahubali",
+      "category": "Prabhas"
+    },
+    {
+      "name": "prabhas thumbs up",
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal3/master/gifs/prabhas/mirchi.gif",
+      "tag": "prabhas Mirchi",
+      "category": "Prabhas"
+    },
+    {
+      "name": "prabhas i want to see you happy",
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal3/master/gifs/prabhas/mirchi1.gif",
+      "tag": "prabhas mirchi happy",
+      "category": "Prabhas"
+    }
+  ]
+}
